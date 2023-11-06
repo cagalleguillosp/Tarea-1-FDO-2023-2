@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+e2dc61e Claudio Galleguillos 2023-11-06: feat: implementa inserción de libros en la base de datos
+24a1775 Claudio Galleguillos 2023-11-06: feat: agrega el endpoint create
+git
 ## [0.1.0] - 2023-10-25 
 
 ### Added
